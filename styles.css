@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("https://c4.wallpaperflare.com/wallpaper/564/261/260/simple-background-abstract-blue-artwork-wallpaper-preview.jpg") no-repeat;
+    background: url("https://cdn.wallpapersafari.com/39/65/7b0uH1.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -18,7 +18,7 @@ body{
     padding: 30px 40px;
     background: transparent;
     border: 2px solid (255, 255, 255, .2);
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(5px);
     box-shadow: 0 0 10px rgba(0, 0, 0, .2);
     width: 420px;
     color: #fff;
