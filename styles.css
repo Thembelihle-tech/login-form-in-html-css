@@ -46,3 +46,9 @@ top: 50%;
 transform: translate(-50%);
 font-size: 20px;
 }
+.wrapper .remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
