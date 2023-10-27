@@ -10,6 +10,8 @@ body{
     align-items: center;
     min-height: 100vh;
     background: url("https://c4.wallpaperflare.com/wallpaper/564/261/260/simple-background-abstract-blue-artwork-wallpaper-preview.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 .wrapper{
     width: 420px;
