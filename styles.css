@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: green;
+    background: url("https://c4.wallpaperflare.com/wallpaper/564/261/260/simple-background-abstract-blue-artwork-wallpaper-preview.jpg") no-repeat;
 }
 .wrapper{
     width: 420px;
