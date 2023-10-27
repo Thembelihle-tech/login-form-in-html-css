@@ -76,6 +76,12 @@ font-size: 20px;
     color: #333;
     font-weight: 600;
 }
+.wrapper .btn:hover{
+    background-image: linear-gradient(to right, #fff 0%, #000 100%);
+    transition: .5s ease;
+    display: block;
+    border-radius: 40px;
+}
 .wrapper .register-link{
     font-size: 14.5px;
     text-align: center;
