@@ -11,3 +11,8 @@ body{
     min-height: 100vh;
     background: green;
 }
+.wrapper{
+    width: 420px;
+    background: blue;
+    color: #fff;
+}
