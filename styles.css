@@ -36,3 +36,6 @@ outline: none;
 border: 2px solid black;
 border-radius: 40px;
 }
+.input-box input::placeholder{
+    color: #fff;
+}
