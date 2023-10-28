@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Form</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/feather-icons"></script>
 </head>
 <body>
     <div class="wrapper">
@@ -12,9 +13,11 @@
             <h1>Login</h1>
             <div class="input-box">
                 <input type="text" name="username" id="username" placeholder="Username" required> 
+                <i class="social-icon" data-feather="user"></i>
             </div>
             <div class="input-box">
                 <input type="password" name="password" id="password" placeholder="Password" required> 
+                <i class="social-icon" data-feather="lock"></i>
             </div>
             <div class="remember-forgot">
                 <label><input type="checkbox">Remember Me 
@@ -27,6 +30,9 @@
             </div>
         </form>
     </div>
+    <script>
+        feather.replace();
+      </script>
 </body>
 <footer><a href="https://github.com/Thembelihle-tech/login-form-in-html-css">OpenSource</a> by Thembelihle Nkosi</footer>
 </html>
