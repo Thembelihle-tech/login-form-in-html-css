@@ -45,6 +45,13 @@ font-size: 16px;
 color: #fff;
 padding: 20px 45px 20px 20px;
 }
+.social-icon{
+    position: absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 10px;
+}
 .input-box input::placeholder{
     color: #fff;
 }
